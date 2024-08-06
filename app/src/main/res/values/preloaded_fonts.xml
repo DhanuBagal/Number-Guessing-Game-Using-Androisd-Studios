@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aguafina_script</item>
+        <item>@font/architects_daughter</item>
+        <item>@font/archivo_narrow</item>
+        <item>@font/audiowide</item>
+        <item>@font/bangers</item>
+        <item>@font/beth_ellen</item>
+        <item>@font/chewy</item>
+        <item>@font/rock_salt</item>
+    </array>
+</resources>
